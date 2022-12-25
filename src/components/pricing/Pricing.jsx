@@ -3,7 +3,7 @@ import "./pricing.css";
 
 const Pricing=()=>{
     return(
-        <h1>Pricing</h1>
+        <div>Pricing</div>
     )
 }
 
