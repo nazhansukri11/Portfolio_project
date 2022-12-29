@@ -14,10 +14,14 @@ const Home=()=>{
                 <span className="home__education">I'm a Developer</span>
 
                 <HeaderSocials />
-                <a href="#contact" className="btn">Hire Me</a>
+                <a href="#portfolio" className="btn">Hire Me</a>
                 <ScrollDown />
+
             </div>
+
             <Shapes />
+
+
         </section>
 
     )
