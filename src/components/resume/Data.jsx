@@ -37,7 +37,7 @@ const Data = [
       icon: "icon-briefcase",
       year: "August 2020 - September 2020",
       title: "Enumerator for University Physical Development",
-      desc: " Designed 3D Printing model using SolidWork for robot’s part. Programmed Arduino and Raspberry PI 4 using C++ and Python.Planned the robot with quality and organised daily report to lecturer",
+      desc: " Designed 3D Printing model using SolidWork for robot’s part. Programmed Arduino and Raspberry PI 4 using C++ and Python. Planned the robot with quality and organised daily report to lecturer",
     },
   ];
 
