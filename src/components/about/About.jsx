@@ -1,6 +1,7 @@
 import React from 'react';
 import "./about.css";
 import Image from "../../assets/avatar-2.svg"
+import Nazhan from "../../assets/AhmadNazhanbinSukri_Resume.pdf";
 
 const About=()=>{
     return(
@@ -12,12 +13,12 @@ const About=()=>{
 
                 <div className="about__info">
                     <p className="about__description">
-                        I am Nazhan Sukri, I am passionate to pursue a career in a 
-                        potential organization related to Software and IT that will continue 
-                        to develop my personality, and technical skills. 
+                        I am Nazhan Sukri, I am passionate in pursuing career in any 
+                        potential organization related to Software and IT that will
+                        develop my personality and technical skills continuously. 
                     </p>
                     
-                    <a href="" className="btn">Download CV  </a>
+                    <a href={Nazhan} className="btn">Download CV  </a>
                 </div>
 
             

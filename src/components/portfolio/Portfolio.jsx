@@ -15,8 +15,8 @@ const Portfolio=()=>{
             <h2 className="section__title">My Portfolio</h2>
 
             <div className="work__filters">
-                <span className="work__item" onClick={()=>setItems(Menu)}>Everything</span>
-                <span className="work__item" onClick={()=>filterItem("Creative")}>Web Application</span>
+                <span className="work__item" onClick={()=>setItems(Menu)}>All</span>
+                <span className="work__item" onClick={()=>filterItem("Creative")}>Programming</span>
                 <span className="work__item" onClick={()=>filterItem("Art")}>Electronic</span>
             </div>
 
